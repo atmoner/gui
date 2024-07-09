@@ -1,0 +1,6 @@
+version: 1
+apps:
+  gui:
+    description: Integration of the ignite-ui desktop app
+    path: ./
+    
